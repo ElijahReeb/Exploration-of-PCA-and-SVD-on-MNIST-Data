@@ -1,4 +1,4 @@
-UW-EE399-Assignment-3
+Exploration of PCA and SVD on MNIST Data
 =========
 This holds the code and backing for the third assignment of the EE399 class. The main dataset this assignment revolves around is the MNIST 784 which is a set of 70000 28x28 images of digits. These digits are processed in order to be categorized by SVD and PCA methods. They are also fed into SVM and Decision tree models in order to compare accuracies between these models and how they handle this dataset. 
 
